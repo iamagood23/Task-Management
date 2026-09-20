@@ -1,0 +1,6 @@
+node_modules/
+data.json
+data.json.*.tmp
+.server.pid
+*.log
+.DS_Store

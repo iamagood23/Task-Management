@@ -1,0 +1,15 @@
+{
+  "name": "task-management-application",
+  "version": "1.0.0",
+  "description": "Full-stack task management app: user auth, CRUD tasks, real-time updates, responsive UI. Zero dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "private": true
+}
